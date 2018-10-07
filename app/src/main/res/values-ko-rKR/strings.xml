@@ -34,7 +34,7 @@
     <string name="remove_playlist_description">선택된 재생목록만 삭제가 되며, 실제 파일은 삭제되지 않습니다.</string>
     <string name="remove_playlist_description_placeholder">\"%s\" 재생목록만 삭제가 되며, 실제 파일은 삭제되지 않습니다.</string>
     <string name="remove_from_playlist">재생목록에서 제거</string>
-    <string name="remove_from_playlist_description">This will only remove the items from playlist \"%s\", the actual files will not be deleted.</string>
+    <string name="remove_from_playlist_description">w재생목록에서만 삭제가 되며\"%s\", 실제 파일은 삭제되지 않습니다.</string>
     <string name="delete_the_files_too">파일도 삭제하기</string>
     <string name="open_playlist">재생목록 열기</string>
     <string name="all_songs_cannot_be_deleted">\'전체 음악\' 목록은 삭제 할 수 없습니다.</string>
@@ -43,11 +43,11 @@
     <string name="all_songs">전체 음악</string>
     <string name="create_playlist_from_folder">폴더를 선택하여 새로운 재생목록 생성</string>
     <string name="folder_contains_no_audio">선택된 폴더에는 오디오파일이 없습니다.</string>
-    <string name="delete_current_song">Delete current song</string>
-    <string name="remove_current_song">Remove current song from playlist</string>
-    <string name="show_filename">Show filename as song title:</string>
-    <string name="title_is_not_available">If title is not available</string>
-    <string name="show_album_cover">Show album cover on the main screen</string>
+    <string name="delete_current_song">현재 노래 삭제</string>
+    <string name="remove_current_song">현재 노래를 재생목록에 제거</string>
+    <string name="show_filename">노래 제목으로 파일명 보여주기:</string>
+    <string name="title_is_not_available">노래 제목이 없으면</string>
+    <string name="show_album_cover">메인화면에 앨범화면 보여주기</string>
 
     <!-- Settings -->
     <string name="equalizer">이퀄라이저</string>
